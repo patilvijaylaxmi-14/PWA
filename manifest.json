@@ -1,0 +1,56 @@
+{
+    "name":"Login Page",
+    "short_name": "Login",
+    "description":"A Simple Login Page App",
+    "start_url": "/index.html",
+    "display" : "standalone",
+    "theme_color":"#808080",
+    "background_color":"#808080",
+    "scope":"/",
+    "orientation":"portrait",
+    "icons":[
+      {
+        "src":"images/icons/car.png",
+        "sizes":"225x225",
+        "type":"image/png"
+      },
+      {
+        "src":"images/icons/cara.png",
+        "sizes":"224x224",
+        "type":"image/png"
+      },
+      {
+        "src":"images/icons/carb.png",
+        "sizes":"224x225",
+        "type":"image/png"
+      },
+      {
+        "src":"images/icons/carc.png",
+        "sizes":"200x200",
+        "type":"image/png"
+      },
+      {
+        "src":"images/icons/card.png",
+        "sizes":"152x152",
+        "type":"image/png"
+      },
+      {
+        "src":"images/icons/care.png",
+        "sizes":"192x192",
+        "type":"image/png"
+      },
+      {
+        "src":"images/icons/carf.png",
+        "sizes":"384x384",
+        "type":"image/png"
+      },
+      {
+        "src":"images/icons/carg.png",
+        "sizes":"512x512",
+        "type":"image/png"
+      }
+    ],
+  
+    "splash_pages":null
+  }
+  
